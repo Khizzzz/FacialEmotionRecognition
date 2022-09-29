@@ -13,4 +13,4 @@ There are several steps taken as mentioned in the report, there are three differ
 2: Histogram Oriented Gradients (HOG) feature descriptor and ML models like SVM,  KNN and Random Forest.
 3: A python library for emotion recognition FER (Facial expression recognition).
 
-Note:  Different Jupyter Notebooks are present for each method 
+> Note:  Different Jupyter Notebooks are present for each method 
