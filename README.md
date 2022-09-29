@@ -18,3 +18,8 @@ There are several steps taken as mentioned in the report, there are three differ
 # The project flow:
 
 ![image](https://user-images.githubusercontent.com/39568831/193047122-f44e9abc-d0e8-4d01-a810-cbe331cd051f.png)
+
+
+## Presentation on the topic can be found here:
+
+https://docs.google.com/presentation/d/1FWcYfdZT99_TeZWOF6s5svd37TgYnvFZMDraXeNPhec/edit#slide=id.p1
