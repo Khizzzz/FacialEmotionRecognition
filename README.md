@@ -14,3 +14,7 @@ There are several steps taken as mentioned in the report, there are three differ
 3: A python library for emotion recognition FER (Facial expression recognition).
 
 > Note:  Different Jupyter Notebooks are present for each method 
+
+# The project flow:
+
+![image](https://user-images.githubusercontent.com/39568831/193047122-f44e9abc-d0e8-4d01-a810-cbe331cd051f.png)
